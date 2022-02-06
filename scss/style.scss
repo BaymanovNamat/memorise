@@ -1,0 +1,16 @@
+@import "_nullstyle";
+@import "_colstyle";
+.block {
+  background-color: aqua;
+}
+.block__title {
+  font-size: 45px;
+}
+.block__text {
+  font-size: 30px;
+}
+.block__additional {
+  color: blue;
+  font-weight: 555;
+}
+
